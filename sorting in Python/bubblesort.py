@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sun Oct  4 21:54:44 2020
-
 @author: Nellman1508
 """
 
