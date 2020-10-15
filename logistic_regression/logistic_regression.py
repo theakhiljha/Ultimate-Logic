@@ -31,19 +31,19 @@ def process():
 	#predicting the tests set result
 	y_pred = classifier.predict(X_test)
 	print("ypred",y_pred)
-
-
+	
+	
 	result2=open("results/resultLogisticRegression.csv","w")
 	result2.write("ID,Predicted Value" + "\n")
 	for j in range(len(y_pred)):
 	    result2.write(str(j+1) + "," + str(y_pred[j]) + "\n")
 	result2.close()
-
+	
 	mse=mean_squared_error(y_test, y_pred)
 	mae=mean_absolute_error(y_test, y_pred)
 	r2=r2_score(y_test, y_pred)
-
-
+	
+	
 	print("---------------------------------------------------------")
 	print("MSE VALUE FOR LogisticRegression IS %f "  % mse)
 	print("MAE VALUE FOR LogisticRegression IS %f "  % mae)
@@ -53,7 +53,7 @@ def process():
 	ac=accuracy_score(y_test,y_pred.round())
 	print ("ACCURACY VALUE LogisticRegression IS %f" % ac)
 	print("---------------------------------------------------------")
-
+	
 
 	result2=open('results/LogisticRegressionMetrics.csv', 'w')
 	result2.write("Parameter,Value" + "\n")
@@ -63,14 +63,14 @@ def process():
 	result2.write("RMSE" + "," +str(rms) + "\n")
 	result2.write("ACCURACY" + "," +str(ac) + "\n")
 	result2.close()
-
-
+	
+	
 	df =  pd.read_csv('results/LogisticRegressionMetrics.csv')
 	acc = df["Value"]
 	alc = df["Parameter"]
 	colors = ["#1f77b4", "#ff7f0e", "#2ca02c", "#d62728", "#8c564b"]
 	explode = (0.1, 0, 0, 0, 0)  
-
+	
 	fig = plt.figure()
 	plt.bar(alc, acc,color=colors)
 	plt.xlabel('Parameter')
@@ -82,3 +82,5 @@ def process():
 	plt.close()
 
 #process()
+
+
