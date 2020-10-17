@@ -46,7 +46,11 @@
   ### And again on the same button on the next window.
   ![](https://i.ibb.co/m95QGHK/request.jpg)
 <br></br>
-
+##
+  ### 10. Follow me on GitHub @ https://github.com/theakhiljha to know more about my works.👨‍💻
+  ![](https://i.ibb.co/q0kXhgN/Screenshot-from-2020-10-17-18-32-04.jpg)
+<br></br>
+##
 
 
 ##
@@ -55,6 +59,17 @@
 
 ##
 #### Now you just have to repeat the steps 4 to 8 for 3 more times with different programs in order to be eligible for a free T-shirt👕 and stickers🤩.
+##
+## <div align="center">🔄Tracking your Progress🚧:-</div>
+  
+  ### 1. Go to https://hacktoberfest.digitalocean.com/login and Sign in with GitHub.
+  ![](https://i.ibb.co/Ss7DhJk/login.jpg)
+  <br></br>
+##
+  ### 2. You will see a bar🔋 on the top right telling your progress.🤩🤩
+  ![](https://i.ibb.co/X3r0mVx/trackPR.jpg)
+  <br></br>
+##
 
 ## <div align="center">Note:-</div>
 
@@ -62,6 +77,8 @@
 ##### 2. Codes like 'helloworld', 'sum of 2 nos.', etc won't be accepted.😔
 ##### 3. Deadline is 31st October.
 ##### 4. I will personally check each code and if I find any code not following the rules, then his/her Pull Request will be marked as invalid and it won't be counted.😥
+
+#### Hacktoberfest 2020 Whatsapp Group: @ https://chat.whatsapp.com/DwkmrTNueCg85j4URCBBJR
 
 #### If you need any help, Contact me at **7992289450**(WhatsApp) or Akhilkumarjha9@gmail.com (Email) at any time 24*7.😊
 ##
