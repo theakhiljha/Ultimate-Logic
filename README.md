@@ -80,7 +80,7 @@
 
 #### Hacktoberfest 2020 Whatsapp Group: @ https://chat.whatsapp.com/DwkmrTNueCg85j4URCBBJR
 
-#### If you need any help, Contact me at **7992289450**(WhatsApp) or Akhilkumarjha9@gmail.com (Email) at any time 24*7.😊
+#### If you need any help, Contact me on Akhilkumarjha9@gmail.com (Email) at any time 24*7.😊
 ##
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
 [![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](http://ForTheBadge.com)
